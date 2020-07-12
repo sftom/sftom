@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **sftom/sftom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,7 +26,7 @@ Here are some ideas to get you started:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/sftom)](https://t.me/sftom)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sftdom@gmail.com)](mailto:sftdom@gmail.com)
 
-## Hello! 👋
+## Hi there 👋
 
 Sérgio Francisco T. de O. Mendonça is an Adjunct Professor at Universidade Federal do Agreste de Pernambuco. He studied Computer Science (undergraduate degree) at Universidade Federal Rural de Pernambuco and earned a master’s degree in Computer Science and a doctor’s degree in Electrical Engineering at Universidade Federal de Pernambuco.
 
