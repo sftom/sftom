@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 # :man_technologist: Sergio Mendonca
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sftom)](https://github.com/sftom)
+[![Github Badge](https://img.shields.io/badge/-Gitlab-000?style=flat-square&logo=GitLab&logoColor=orange&link=https://gitlab.com/sftom)](https://gitlab.com/sftom)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sftom/)](https://www.linkedin.com/in/sftom/)
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/sftom)](https://dev.to/sftom)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/197196/sergio-mendonca)](https://pt.stackoverflow.com/users/197196/sergio-mendonca)
