@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# :man_technologist: Sergio Mendonca
+# :man_technologist: Hi there 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sftom)](https://github.com/sftom)
 [![GitLab Badge](https://img.shields.io/badge/-Gitlab-000?style=flat-square&logo=GitLab&logoColor=orange&link=https://gitlab.com/sftom)](https://gitlab.com/sftom)
@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581998985000&text=Olá!)](https://api.whatsapp.com/send?phone=5581998985000&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/sftom)](https://t.me/sftom)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sftdom@gmail.com)](mailto:sftdom@gmail.com)
-
-## Hi there 👋
 
 Sérgio Francisco T. de O. Mendonça is an Adjunct Professor at Universidade Federal do Agreste de Pernambuco. He studied Computer Science (undergraduate degree) at Universidade Federal Rural de Pernambuco and earned a master’s degree in Computer Science and a doctor’s degree in Electrical Engineering at Universidade Federal de Pernambuco.
 
